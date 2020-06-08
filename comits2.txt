@@ -1,0 +1,23 @@
+commit 1a1d84ac0b5c831614ef454456fa485cf3e4fc82
+Author: Alejandro Loera <henryloera97@gmail.com>
+Date:   Fri Jun 5 18:54:45 2020 -0500
+
+    quite la ultima palabra
+
+commit 77d1a83bcebd7242274ea560207b0d30ae6bf817
+Author: Alejandro Loera <henryloera97@gmail.com>
+Date:   Fri Jun 5 18:46:24 2020 -0500
+
+    qite la palabra home
+
+commit 02127121dd8545eb4898e5bda525d62d28df06d9
+Author: Alejandro Loera <henryloera97@gmail.com>
+Date:   Fri Jun 5 18:44:22 2020 -0500
+
+    quitamos la palabra heroes de nadvar
+
+commit 79458948ce5c6555483c869ca08b7714c52b9353
+Author: Alejandro Loera <henryloera97@gmail.com>
+Date:   Mon Jun 1 22:40:24 2020 -0500
+
+    iniciamos
